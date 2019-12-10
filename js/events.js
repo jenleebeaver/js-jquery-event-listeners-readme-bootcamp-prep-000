@@ -20,7 +20,7 @@ function pressIt() {
       alert('G was pressed');
   }
 });
-}
+};
 
 $(document).ready(function() {
 // call functions here
